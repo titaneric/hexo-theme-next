@@ -616,10 +616,10 @@ needmoreshare2:
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters
-#google_site_verification:
+google_site_verification: RQtmPJShc9hc9WFJsoPCJy1PN9k4Yc6lm6Oz9iYNyM0
 
 # Google Analytics
-#google_analytics:
+google_analytics: UA-132691301-1
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster
